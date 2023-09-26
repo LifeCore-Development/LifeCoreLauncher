@@ -1,0 +1,11 @@
+C:\Users\Cyn\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\LifeCore Launcher.exe.config
+C:\Users\Cyn\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\LifeCore Launcher.exe
+C:\Users\Cyn\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\LifeCore Launcher.pdb
+C:\Users\Cyn\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Cyn\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Main.resources
+C:\Users\Cyn\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form2.resources
+C:\Users\Cyn\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Cyn\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Cyn\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Cyn\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\LifeCore Launcher.exe
+C:\Users\Cyn\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\LifeCore Launcher.pdb

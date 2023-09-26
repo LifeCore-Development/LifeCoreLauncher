@@ -1,0 +1,11 @@
+C:\Users\Cyn\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Cyn\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Cyn\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Cyn\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Cyn\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Cyn\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\Cyn\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LifeCore Launcher.exe.config
+C:\Users\Cyn\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LifeCore Launcher.exe
+C:\Users\Cyn\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LifeCore Launcher.pdb
+C:\Users\Cyn\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\LifeCore Launcher.exe
+C:\Users\Cyn\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\LifeCore Launcher.pdb
