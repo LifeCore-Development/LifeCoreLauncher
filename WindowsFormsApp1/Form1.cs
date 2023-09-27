@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -133,14 +133,15 @@ namespace WindowsFormsApp1
         private void label8_Click(object sender, EventArgs e)
         {
             this.WindowState = FormWindowState.Minimized;
-            System.Diagnostics.Process.Start("fivem://connect/play.lifecorerp.com");
+            System.Diagnostics.Process.Start("explorer.exe", "fivem://connect/play.lifecorerp.com");
             Application.Exit();
         }
 
         private void rjButton1_Click(object sender, EventArgs e)
         {
             this.WindowState = FormWindowState.Minimized;
-            System.Diagnostics.Process.Start("fivem://connect/play.lifecorerp.com");
+            System.Diagnostics.Process.Start("explorer.exe", "fivem://connect/play.lifecorerp.com");
+            //System.Diagnostics.Process.Start("fivem://connect/play.lifecorerp.com");
             //Application.Exit();
         }
 
