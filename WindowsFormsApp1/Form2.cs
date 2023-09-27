@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System;
 using System.IO;
+
 namespace WindowsFormsApp1
 {
     public partial class Form2 : Form
@@ -31,10 +32,22 @@ namespace WindowsFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string appDataLocalPath = Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData);
 
-            // Construct the full path to your directory
-            string yourDirectoryPath = Path.Combine(appDataLocalPath, "FiveM", "FiveM.app", "data");
+            string fivemPath = Utils.GetFiveMPath();
+
+            if (string.IsNullOrEmpty(fivemPath))
+            {
+                MessageBox.Show("Could not find FiveM installation. Cancelling auto clean up.");
+                return;
+            }
+
+            if (!Directory.Exists(fivemPath))
+            {
+                MessageBox.Show("FiveM directory does not exist. Cancelling auto clean up.");
+                return;
+            }
+
+            string yourDirectoryPath = Path.Combine(fivemPath, "FiveM.app", "data");
 
             // Check if the main directory exists
             if (Directory.Exists(yourDirectoryPath))
